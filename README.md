@@ -1,4 +1,4 @@
-# qrcode
+# Workshop-vue
 
 ## Project setup
 ```
